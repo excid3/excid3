@@ -9,8 +9,7 @@
 
 ✨ You can follow me on Twitter [@excid3](https://twitter.com/excid3)
 
-If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/geerlingguy).
-Save
+If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/excid3).
 
 <!--
 **excid3/excid3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
