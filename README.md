@@ -11,8 +11,6 @@
 
 If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/excid3).
 
-[![Tuple](https://img.shields.io/badge/Pairing%20with-Tuple-5A67D8)](https://tuple.app)
-
 <!--
 **excid3/excid3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
