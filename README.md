@@ -5,7 +5,6 @@
 * [Jumpstart](https://jumpstartrails.com) - A complete Ruby on Rails SaaS template
 * [Hatchbox](https://hatchbox.io) - Hosting for Ruby and Rails apps
 * [RailsBytes](https://RailsBytes.com) - Reusable templates for adding features to Ruby on Rails apps
-* [AppLocale.dev](https://applocale.dev) - The easiest way to manage translations for your apps
 
 ✨ You can follow me on Twitter [@excid3](https://twitter.com/excid3)
 
