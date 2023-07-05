@@ -5,6 +5,7 @@
 * [Jumpstart](https://jumpstartrails.com) - A complete Ruby on Rails SaaS template
 * [Hatchbox](https://hatchbox.io) - Hosting for Ruby and Rails apps
 * [RailsBytes](https://RailsBytes.com) - Reusable templates for adding features to Ruby on Rails apps
+* [Rails Hackathon](https://railshackathon.com) - A weekend hackathon for Ruby on Rails developers to get together and build their ideas.
 
 ✨ You can follow me on Twitter [@excid3](https://twitter.com/excid3)
 
