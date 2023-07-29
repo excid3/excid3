@@ -6,6 +6,10 @@
 * [Hatchbox](https://hatchbox.io) - Hosting for Ruby and Rails apps
 * [RailsBytes](https://RailsBytes.com) - Reusable templates for adding features to Ruby on Rails apps
 * [Rails Hackathon](https://railshackathon.com) - A weekend hackathon for Ruby on Rails developers to get together and build their ideas.
+* [Pay](https://github.com/pay-rails/pay) - A complete payments engine for Ruby on Rails apps
+* [Noticed](https://github.com/excid3/noticed) - Notifications system for Ruby on Rails apps
+* [ActsAsTenant](https://github.com/ErwinM/acts_as_tenant) - Multitenancy for Ruby on Rails apps
+* A bunch of other [Ruby gems](https://rubygems.org/profiles/excid3)
 
 ✨ You can follow me on Twitter [@excid3](https://twitter.com/excid3)
 
