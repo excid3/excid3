@@ -5,6 +5,7 @@
 * [Jumpstart](https://jumpstartrails.com) - A complete Ruby on Rails SaaS template
 * [Hatchbox](https://hatchbox.io) - Hosting for Ruby and Rails apps
 * [SellRepo](https:///sellrepo.com) - Sell access to GitHub repositories
+* [Learn Hotwire course](https://learnhotwire.com) - Learn Hotwire with Ruby on Rails, iOS and Android
 
 🔭 A few of my open source projects:
 * [RailsBytes](https://RailsBytes.com) - Reusable templates for adding features to Ruby on Rails apps
