@@ -13,6 +13,7 @@
 * [Noticed](https://github.com/excid3/noticed) - Notifications system for Ruby on Rails apps
 * [Madmin](https://github.com/excid3/madmin) - An admin interface for Ruby on Rails apps
 * [Refer](https://github.com/excid3/refer) - A referral engine for Ruby on Rails apps
+* [FerrumPDF](https://github.com/excid3/ferrum_pdf) - PDF & Screenshot exports with Chrome for Ruby on Rails apps (without Node.js or puppeteer!)
 * [ActsAsTenant](https://github.com/ErwinM/acts_as_tenant) - Multitenancy for Ruby on Rails apps
 * A bunch of other [Ruby gems](https://rubygems.org/profiles/excid3)
 
